@@ -72,4 +72,3 @@ Contributions are welcome! Please follow these guidelines when contributing to t
 For inquiries and support, please contact Dominic Savio at [saviodomnic2002@gmail.com].
 
 Happy Coding! 🚀
-```
